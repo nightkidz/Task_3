@@ -1,6 +1,6 @@
 //Anggota Kelompok:
 //Fachri Ul Albab(1301140151)
-//Alfian Pamuungkas S(1301144411)
+//Alfian Pamungkas S(1301144411)
 //Ezekiel Manurung(
 //IF-38-01
 #include <iostream>
